@@ -61,8 +61,7 @@ E-mail: feproldo@gmail.com | Telegram: @feproldo | GitHub: github.com/feproldo
 
 _(в процессе разработки и публикации на GitHub)_
 
-- Мини-блог на Rust (Axum + PostgreSQL)
-- [Процессный менеджер на Rust](https://github.com/feproldo/process-manager)
+- Музыкальный плеер
 
 ---
 
