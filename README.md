@@ -1,6 +1,6 @@
 # Иван Чегодаев
 **Junior Backend / Fullstack Developer**  
-16 лет, Оренбург
+17 лет, Оренбург
 E-mail: feproldo@gmail.com | Telegram: @feproldo | GitHub: github.com/feproldo
 
 ---
